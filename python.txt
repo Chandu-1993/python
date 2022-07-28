@@ -1,5 +1,5 @@
 Print ("Hello world ")
-Print ( "i am chandu")
+Print ( "i am chandrasekhar")
 Print ( "i am gamya")
 Print( "i am in blr")
 print("i am in kotak ")
